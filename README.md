@@ -11,19 +11,16 @@ A comprehensive desktop application providing AI-powered medicine information an
 
 **HealixQure** is an innovative desktop application designed to revolutionize medication management and medical information access. The platform combines advanced QR code scanning with AI-powered medical insights to provide healthcare professionals and patients with comprehensive medication information.
 
-## 🗓️ Project Timeline
-**Mumbai, India** | **June 2025 – Ongoing**
-
 ## 🖼️ Screenshots
 
-### Main Application Interface
-![Main Interface](screenshot1.png)
+### Login Interface
+<img src="https://github.com/Vishlu/HEALIXQURE/blob/4f8d002039d57b0ed0b09f828078b15a30289fd1/Screenshot%20(76).png" width=600>
 
 ### QR Scanning in Action
-![QR Scanning](screenshot2.png)
+<img src="https://github.com/Vishlu/HEALIXQURE/blob/4f8d002039d57b0ed0b09f828078b15a30289fd1/Screenshot%20(77).png" width=600>
 
 ### AI Medical Chatbot
-![Medical Chatbot](screenshot3.png)
+<img src="https://github.com/Vishlu/HEALIXQURE/blob/4f8d002039d57b0ed0b09f828078b15a30289fd1/Screenshot%20(78).png" width=600>
 
 ## ✨ Key Features
 
